@@ -15,7 +15,4 @@ h1
  table, th, td {
   border: 2px solid #546A76;
 }   
-h1:hover 
-{
-  background-color: #88A0A8;
-}
+tr:hover {background-color: #88A0A8;}

@@ -1,12 +1,15 @@
 body {
-  background-color: #88A0A8;
+ 
+  font-family: arial;
+   background-color: #88A0A8;
    color: #DBD3C9;
-        font-family: arial;
+        
 }
 h1
 {
-    color: #DBD3C9;
-        font-family: arial;
+  font-family: Arial;  
+  color: #DBD3C9;
+        
 }
    
 

@@ -1,4 +1,17 @@
-body
-{
-    color:blue;
+body {
+  font-family: "Arial";
+   background-color: #FAD4D8;
+   color: #546A76;
+        
 }
+h1
+{
+  font-family: "Arial";  
+  color: #546A76;
+        
+}
+   
+
+tr:nth-child(even) {
+ background-color #DBD3C9;
+}   

@@ -1,16 +1,14 @@
 body {
   background-color: #88A0A8;
+   color: #DBD3C9;
+        font-family: arial;
 }
 h1
 {
-    color: #DBD3C9
-        font-family: arial
+    color: #DBD3C9;
+        font-family: arial;
 }
-body
-{
-    color: #DBD3C9
-        font-family: arial
-}
+   
 
  table, th, td {
   border: 2px solid #546A76;

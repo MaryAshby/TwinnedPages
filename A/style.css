@@ -1,4 +1,12 @@
-body
-{
-    color:green;
+body {
+  background-color: #88A0A8;
 }
+h1, p
+{
+    color: #DBD3C9
+        font-family: arial
+}
+
+ table, th, td {
+  border: 2px solid #546A76;
+}   

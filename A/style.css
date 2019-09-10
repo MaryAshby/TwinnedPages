@@ -1,7 +1,12 @@
 body {
   background-color: #88A0A8;
 }
-h1, p
+h1
+{
+    color: #DBD3C9
+        font-family: arial
+}
+p
 {
     color: #DBD3C9
         font-family: arial

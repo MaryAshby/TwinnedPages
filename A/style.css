@@ -4,17 +4,18 @@ body {
    color: #DBD3C9;
         
 }
+body
+{
+  background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg) no-repeat;
+background-position: centre top;
+}
+
 h1
 {
   font-family: "Arial";  
   color: #DBD3C9;
-        
-}
-   h1 {
-background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg) no-repeat;
-background-position: left top;
-padding-top:100px;
-margin-bottom:100px;
+padding-top:50px;
+margin-bottom:50px;
 
 }
 

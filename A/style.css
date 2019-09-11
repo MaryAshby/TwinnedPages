@@ -1,7 +1,7 @@
 body {
   font-family: "Arial";
    background: #88A0A8
- url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg) no-repeat
+ url("https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg") no-repeat
 center top;
    color: #DBD3C9;
         

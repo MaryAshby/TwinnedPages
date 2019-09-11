@@ -8,9 +8,9 @@ h1
   font-family: "Arial";  
   color: #546A76;
  }
-h1 {
+head {
 background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/eggs.jpg?) no-repeat;
-background-position: right top;
+background-position: left top;
 padding-top:260px;
 margin-bottom:300px;
 }

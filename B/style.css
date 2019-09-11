@@ -11,6 +11,9 @@ h1
 h1 {
 background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/eggs.jpg?) no-repeat;
 background-position: left top;
+padding-top:260px;
+margin-bottom:260px;
+
 }
 tr:hover {background-color: #88A0A8;}
 

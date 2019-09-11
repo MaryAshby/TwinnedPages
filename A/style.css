@@ -1,13 +1,10 @@
 body {
   font-family: "Arial";
-   background-color: #88A0A8;
+   background: #88A0A8
+ url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg) no-repeat;
+center top;
    color: #DBD3C9;
         
-}
-body
-{
-  background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg) no-repeat;
-background-position: centre top;
 }
 
 h1

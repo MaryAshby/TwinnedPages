@@ -8,6 +8,12 @@ h1
   font-family: "Arial";  
   color: #546A76;
  }
-tr:hover {background-color #88A0A8;}
-tr:nth-child(odd) {background-color #DBD3C9;}   
+#h1 {
+background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/eggs.jpg);
+background-repeat: no-repeat;
+background-position: left top;
+padding-top:68px;
+margin-bottom:50px;
+}
+tr:hover {background-color: #88A0A8;}
 

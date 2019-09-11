@@ -1,8 +1,9 @@
 body {
   font-family: "Arial";
    background: #88A0A8
- url("https://raw.githubusercontent.com/MaryAshby/TwinnedPages/master/images/fruit.jpg") no-repeat
-right bottom;
+ url("https://raw.githubusercontent.com/MaryAshby/TwinnedPages/master/images/fruit.jpg");
+   background-position: right bottom;
+  background-repeat: no-repeat;
   color: #DBD3C9;
         
 }

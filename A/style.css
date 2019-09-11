@@ -10,7 +10,13 @@ h1
   color: #DBD3C9;
         
 }
-   
+   h1 {
+background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg?) no-repeat;
+background-position: left top;
+padding-top:260px;
+margin-bottom:260px;
+
+}
 
  table, th, td {
   border: 2px solid #546A76;

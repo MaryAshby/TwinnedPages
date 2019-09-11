@@ -8,6 +8,6 @@ h1
   font-family: "Arial";  
   color: #546A76;
  }
-
+tr:hover {background-color #88A0A8;}
 tr:nth-child(even) {background-color #DBD3C9;}   
-tr:hover {background-color: #88A0A8;}
+

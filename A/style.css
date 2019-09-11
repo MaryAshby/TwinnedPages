@@ -11,10 +11,10 @@ h1
         
 }
    h1 {
-background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg?) no-repeat;
+background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/fruit.jpg) no-repeat;
 background-position: left top;
-padding-top:260px;
-margin-bottom:260px;
+padding-top:100px;
+margin-bottom:100px;
 
 }
 

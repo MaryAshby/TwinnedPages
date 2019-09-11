@@ -3,20 +3,24 @@ body {
    background: #FAD4D8
       url("https://raw.githubusercontent.com/MaryAshby/TwinnedPages/master/images/fruit.jpg") no-repeat
 center center;
-
-   color: #546A76;        
+  color: #546A76;        
 }
+
 h1
 {
   font-family: "Arial";  
   color: #546A76;
- }
-h1 {
-background-image: url(https://github.com/MaryAshby/TwinnedPages/blob/master/images/eggs.jpg?) no-repeat;
-background-position: left top;
-padding-top:60px;
-margin-bottom:60px;
+padding-top:50px;
+margin-bottom:50px;
 
 }
+
+th {
+  border-bottom: 2px solid #546A76;
+  border-top: 2px solid #546A76;
+  text-align: left;
+}
+ 
+tr.even {background-color: #FAD4D8;}
 tr:hover {background-color: #88A0A8;}
 
